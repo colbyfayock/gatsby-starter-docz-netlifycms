@@ -19,7 +19,7 @@ collections:
     name: "name"
   - label: "Menu"
     name: "menu"
-    required: "false"
+    required: false
   - label: "Route"
     name: "route"
   - label: "Body"
