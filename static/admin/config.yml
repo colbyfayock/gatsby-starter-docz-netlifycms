@@ -20,7 +20,6 @@ collections:
   - label: "Menu"
     name: "menu"
     required: false
-    description: "Friendly name for nesting docs. This value must match the parent name."
   - label: "Route"
     name: "route"
   - label: "Body"
