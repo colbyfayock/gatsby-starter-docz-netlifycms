@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "docz dev",
+    "develop": "docz dev",
     "build": "docz build --dest public",
     "serve": "docz serve"
   },

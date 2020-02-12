@@ -1,6 +1,7 @@
 export default {
-  files: 'src/**/*.{md,markdown,mdx}',
+  files: 'docs/**/*.{md,markdown,mdx}',
   title: 'My Awesome Documentation',
+  public: '/static',
   menu: [
     'Welcome',
     {
