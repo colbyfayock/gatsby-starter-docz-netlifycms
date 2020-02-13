@@ -4,7 +4,6 @@ Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
 ### Here's What You Get
 * [Docz](https://docz.site) Documentation engine powered by [Gatsby](https://www.gatsbyjs.org/)
-* [Netlify](https://www.netlify.com/) CI / CD
 * [Netlify CMS](https://www.netlifycms.org/) Content management
 
 ## Quick Start with Netlify
