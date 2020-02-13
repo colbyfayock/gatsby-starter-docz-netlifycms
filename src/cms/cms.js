@@ -1,6 +1,4 @@
-window.CMS_MANUAL_INIT = true
-
-import CMS, { init } from 'netlify-cms-app'
+import { init } from 'netlify-cms-app'
 
 init({
   config: {
