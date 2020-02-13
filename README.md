@@ -1,41 +1,38 @@
-# Basic Docz example
+# Gatsby Starter for Docz & Netlify CMS
 
-## Using `create-docz-app`
+Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
-```sh
-npx create-docz-app docz-app-basic
-# or
-yarn create docz-app docz-app-basic
+### Here's What You Get
+* [Docz](https://docz.site) Documentation engine powered by [Gatsby](https://www.gatsbyjs.org/)
+* [Netlify](https://www.netlify.com/) CI / CD
+* [Netlify CMS](https://www.netlifycms.org/) Content management
+
+## Quick Start with Netlify
+
+* Deploy app to Netlify from new Github repository
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-docz-netlifycms)
+Note: This will request Github access and will create a repository for you
+
+## Getting Started
+
+### Requirements
+* [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
+* [Yarn](https://yarnpkg.com/en/)
+
+### Setting Up the App
+* Inside the directory of your choice, scaffold a new Gatsby site:
 ```
-
-## Download manually
-
-```sh
-curl https://codeload.github.com/doczjs/docz/tar.gz/master | tar -xz --strip=2 docz-master/examples/basic
-mv basic docz-basic-example
-cd docz-basic-example
+gatsby new [folder-name] https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
 ```
-
-## Setup
-
-```sh
-yarn # npm i
+For example, if I want my installation in `~/Code/my-docs`, I would navigate to `~/Code` and run:
 ```
-
-## Run
-
-```sh
-yarn dev # npm run dev
+gatsby new my-docs https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
 ```
-
-## Build
-
-```sh
-yarn build # npm run build
+* Navigate to your new directory and run:
 ```
-
-## Serve built app
-
-```sh
-yarn serve # npm run serve
+yarn develop
 ```
+* You should now be running a new Gatsby site locally! 🎉
+
+### Setting up Netlify CMS
+
