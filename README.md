@@ -21,8 +21,10 @@ Note: This will request Github access and will create a repository for you
 * Click **Settings & Usage**
 * **Optional:** If you'd like to close registration, scroll to **Registration Preferences** and change to **Invite Only**
 * Scroll down to **Git Gateway** and click **Enable**
+* You're ready to register and log in!
 
 Once the invited user completes registration via the link in their email, they'll be able to log in via:
+
 ```https://[your site].netlify.com/admin```
 
 ## Getting Started
