@@ -9,8 +9,10 @@ Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
 ## Quick Start with Netlify
 
-* Deploy app to Netlify from new Github repository
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-docz-netlifycms)
+
+* Deploy app to Netlify from new Github repository using the button above
+
 Note: This will request Github access and will create a repository for you
 
 ## Getting Started
