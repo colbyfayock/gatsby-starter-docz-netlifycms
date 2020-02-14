@@ -10,8 +10,9 @@ init({
     public_folder: '/images/uploads',
     collections: [
       {
-        label: 'Doc',
-        name: 'doc',
+        label: 'Docs',
+        label_singular: 'Doc',
+        name: 'docs',
         folder: 'docs',
         create: true,
         slug: '{{menu}}{{name}}',
