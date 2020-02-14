@@ -34,7 +34,7 @@ Then [configure Netlify Identity](#user-content-enable--configure-netlify-identi
 
     Your site is now running at `http://localhost:8000`!
 
-## Quick Start with Netlify
+## ⚡ Quick Start with Netlify
 
 ### Deploy to Netlify
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-docz-netlifycms)
