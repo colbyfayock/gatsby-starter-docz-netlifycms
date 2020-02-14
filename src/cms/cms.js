@@ -39,6 +39,27 @@ init({
           },
         ]
       },
+      {
+        label: 'Settings',
+        name: 'settings',
+        files: [
+          {
+            label: 'Menu',
+            name: 'menu',
+            file: 'config/menu.json',
+            fields: [
+              {
+                label: 'Item',
+                name: 'item',
+                widget: 'list',
+                default: [
+                  'Welcome'
+                ]
+              }
+            ]
+          }
+        ]
+      }
     ],
   },
 });
