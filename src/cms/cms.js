@@ -49,8 +49,8 @@ init({
             file: 'config/menu.json',
             fields: [
               {
-                label: 'Menu Item',
-                name: 'Menu item',
+                label: 'Menu Items',
+                name: 'menuItems',
                 widget: 'list',
                 fields: [
                   {
@@ -60,7 +60,8 @@ init({
                   {
                     label: 'Menu',
                     name: 'menu',
-                    widget: 'list'
+                    widget: 'list',
+                    required: false
                   }
                 ],
                 default: [

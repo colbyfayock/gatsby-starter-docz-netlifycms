@@ -1,13 +1,9 @@
+const projectRoot = require.main.filename.split('/node_modules/')[0];
+
+const { menuItems } = require(`${projectRoot}/config/menu.json`);
+
 export default {
   files: 'docs/**/*.{md,markdown,mdx}',
   title: 'My Awesome Documentation',
-  menu: [
-    'Welcome',
-    {
-      name: 'Getting Started',
-      menu: [
-        'Installation'
-      ]
-    }
-  ]
+  menu: menuItems
 }
