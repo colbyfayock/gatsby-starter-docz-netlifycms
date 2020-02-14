@@ -27,26 +27,5 @@ Once the invited user completes registration via the link in their email, they'l
 
 ```https://[your site].netlify.com/admin```
 
-## Getting Started
-
-### Requirements
-* [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
-* [Yarn](https://yarnpkg.com/en/)
-
-### Setting Up the App
-* Inside the directory of your choice, scaffold a new Gatsby site:
-```
-gatsby new [folder-name] https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
-```
-For example, if I want my installation in `~/Code/my-docs`, I would navigate to `~/Code` and run:
-```
-gatsby new my-docs https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
-```
-* Navigate to your new directory and run:
-```
-yarn develop
-```
-* You should now be running a new Gatsby site locally! 🎉
-
-### Setting up Netlify CMS
-
+## Need more help?
+Visit the deployed documentation! [gatsby-starter-docz-netlifycms.netlify.com](https://gatsby-starter-docz-netlifycms.netlify.com/)
