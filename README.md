@@ -1,4 +1,4 @@
-# Gatsby Starter for Docz & Netlify CMS
+# 🗒️ Gatsby Starter for Docz & Netlify CMS
 
 Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
