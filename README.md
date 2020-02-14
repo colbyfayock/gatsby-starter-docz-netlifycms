@@ -3,7 +3,9 @@
 Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
 ### Want to skip the manual install?
-See how to [deploy straight to Netlify](#user-content-quick-start-with-netlify)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-docz-netlifycms)
+
+Then [configure Netlify Identity](#user-content-enable--configure-netlify-identity-for-authentication)
 
 ### Here's What You Get
 * [Docz](https://docz.site) documentation engine powered by [Gatsby](https://www.gatsbyjs.org/)
