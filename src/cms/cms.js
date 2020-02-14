@@ -49,9 +49,20 @@ init({
             file: 'config/menu.json',
             fields: [
               {
-                label: 'Item',
-                name: 'item',
+                label: 'Menu Item',
+                name: 'Menu item',
                 widget: 'list',
+                fields: [
+                  {
+                    label: 'Name',
+                    name: 'name'
+                  },
+                  {
+                    label: 'Menu',
+                    name: 'menu',
+                    widget: 'list'
+                  }
+                ],
                 default: [
                   'Welcome'
                 ]
