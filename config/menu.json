@@ -12,6 +12,9 @@
         "Quick Start",
         "Manual Installation"
       ]
+    },
+    {
+      "name": "Configuration"
     }
   ]
 }
