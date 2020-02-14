@@ -1,7 +1,7 @@
 {
   "menuItems": [
     {
-      "name": "Welcome",
+      "name": "Quick Start",
       "menu": [
         ""
       ]
@@ -9,7 +9,6 @@
     {
       "name": "Getting Started",
       "menu": [
-        "Quick Start",
         "Manual Installation"
       ]
     },
