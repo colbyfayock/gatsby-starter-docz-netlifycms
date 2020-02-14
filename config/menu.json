@@ -3,14 +3,18 @@
     {
       "name": "Welcome",
       "menu": [
-        "Test"
+        ""
       ]
     },
     {
       "name": "Getting Started",
       "menu": [
-        "Installation"
+        "Quick Start",
+        "Manual Installation"
       ]
+    },
+    {
+      "name": "Configuration"
     }
   ]
 }
