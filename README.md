@@ -2,11 +2,35 @@
 
 Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
-Want to skip the manual install? [Deploy straight to Netlify](#user-content-quick-start-with-netlify)
+### Want to skip the manual install?
+See how to [deploy straight to Netlify](#user-content-quick-start-with-netlify)
 
 ### Here's What You Get
 * [Docz](https://docz.site) Documentation engine powered by [Gatsby](https://www.gatsbyjs.org/)
 * [Netlify CMS](https://www.netlifycms.org/) Content management
+
+## 🚀 Setting Up Your Gatsby Site
+
+1.  **Create a Gatsby site.**
+
+    Use the Gatsby CLI to create a new site, specifying the default starter.
+
+    ```shell
+    gatsby new my-docz-site https://github.com/colbyfayock/gatsby-starter-docz-netlifycms
+    ```
+
+1.  **Start developing.**
+
+    Navigate into your new site’s directory and start it up.
+
+    ```shell
+    cd my-docz-site/
+    yarn develop
+    ```
+
+1.  **Open the source code and start editing!**
+
+    Your site is now running at `http://localhost:8000`!
 
 ## Quick Start with Netlify
 
