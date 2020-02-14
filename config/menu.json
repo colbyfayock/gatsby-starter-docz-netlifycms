@@ -1,1 +1,16 @@
-{}
+{
+  "Menu item": [
+    {
+      "name": "Welcome",
+      "menu": [
+        "Test"
+      ]
+    },
+    {
+      "name": "Getting Started",
+      "menu": [
+        "Installation"
+      ]
+    }
+  ]
+}
