@@ -13,7 +13,7 @@ Easily spin up a new documentation site with the power of Docz and Netlify CMS.
 
 Note: This will request Github access and will create a repository for you
 
-### Enable & Config Netlify Identity
+### Enable & Configure Netlify Identity for Authentication
 
 * Navigate to **Identity** in the Netlify navigation
 * Click **Enable Identity**
