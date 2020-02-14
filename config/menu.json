@@ -9,7 +9,8 @@
     {
       "name": "Getting Started",
       "menu": [
-        "Installation"
+        "Quick Start",
+        "Manual Installation"
       ]
     }
   ]
