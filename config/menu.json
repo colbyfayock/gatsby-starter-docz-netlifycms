@@ -1,15 +1,15 @@
 {
   "menuItems": [
     {
-      "name": "Getting Started",
-      "menu": [
-        "Installation"
-      ]
-    },
-    {
       "name": "Welcome",
       "menu": [
         ""
+      ]
+    },
+    {
+      "name": "Getting Started",
+      "menu": [
+        "Installation"
       ]
     }
   ]
