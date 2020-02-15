@@ -7,7 +7,7 @@ init({
     },
     load_config_file: false,
     media_folder: 'static/images/uploads',
-    public_folder: '/images/uploads',
+    public_folder: '../static/images/uploads',
     collections: [
       {
         label: 'Docs',
