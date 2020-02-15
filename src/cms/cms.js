@@ -6,8 +6,8 @@ init({
       name: 'git-gateway'
     },
     load_config_file: false,
-    media_folder: 'static/images/uploads',
-    public_folder: '../static/images/uploads',
+    media_folder: 'docs/images/uploads',
+    public_folder: '/images/uploads',
     collections: [
       {
         label: 'Docs',
