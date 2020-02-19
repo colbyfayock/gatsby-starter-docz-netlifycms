@@ -27,7 +27,7 @@ Then [configure Netlify Identity](#user-content-enable--configure-netlify-identi
 
     ```shell
     cd my-docz-site/
-    yarn develop
+    npm run develop
     ```
 
 1.  **Open the source code and start editing!**
