@@ -18,7 +18,8 @@
   },
   "main": "index.js",
   "dependencies": {
-    "docz": "latest",
+    "docz": "^2.3.1",
+    "gatsby": "^2.30.3",
     "gatsby-plugin-netlify-cms": "^4.1.39",
     "netlify-cms-app": "^2.11.18",
     "prop-types": "^15.7.2",
