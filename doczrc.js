@@ -1,4 +1,4 @@
-const projectRoot = require.main.filename.split('/node_modules/')[0];
+const projectRoot = __dirname.replace('/.docz', '');
 
 const { menuItems } = require(`${projectRoot}/config/menu.json`);
 
